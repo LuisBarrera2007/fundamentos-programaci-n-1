@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         Scanner teclado=new Scanner (System.in);
         double subtotal=0;
         double descuento=0;
